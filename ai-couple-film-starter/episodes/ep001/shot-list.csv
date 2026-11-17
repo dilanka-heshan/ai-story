@@ -1,0 +1,7 @@
+shot_id,duration_seconds,scene,action,framing,characters,location,continuity_notes,status
+SH01,4,Hook,Husband sits at table and looks at bills,medium close-up,H01,Apartment,Blue sweater and cream table,planned
+SH02,6,Setup,Wife enters and gently sits beside husband,medium two-shot,H01+W01,Apartment,Same clothes and table,planned
+SH03,6,Tension,Both look at savings jar and sketch,over-shoulder two-shot,H01+W01,Apartment,Jar on right notebook on left,planned
+SH04,7,Turning point,Wife opens notebook and indicates one small plan,medium close-up,W01,Apartment,Do not generate readable handwriting,planned
+SH05,7,Response,Husband takes pen and starts sketching,close-up hands/H01,H01,Apartment,Same notebook pen and jar,planned
+SH06,8,Ending,They exchange hopeful look hands rest beside notebook,slow gentle two-shot,H01+W01,Apartment,Same props and outfits,planned

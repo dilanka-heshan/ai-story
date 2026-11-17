@@ -1,0 +1,18 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+__pycache__/
+*.tmp
+# Sensitive real-life references / personal images
+episodes/**/assets/references/*
+!episodes/**/assets/references/.gitkeep
+# Large binary outputs (store separately or use Git LFS)
+episodes/**/assets/keyframes/*
+!episodes/**/assets/keyframes/.gitkeep
+episodes/**/assets/video/*
+!episodes/**/assets/video/.gitkeep
+episodes/**/assets/audio/*
+!episodes/**/assets/audio/.gitkeep
+episodes/**/assets/final/*
+!episodes/**/assets/final/.gitkeep
